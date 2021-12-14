@@ -1,0 +1,2 @@
+# Mask_RCNN_Arundo
+This is a Mask-RCNN model application on drone image texture based instance segmentation. The target object would be the Arundo bunches in the drone image. The difficulty here is the objects are only characterized as the textures, while most instance segmentation scenarios are objects characterized by shape as well as color and texture. The training samples have been manually labeled carefully. It is expected to have more samples in the future as more flying tasks will be arranged every half year.   
